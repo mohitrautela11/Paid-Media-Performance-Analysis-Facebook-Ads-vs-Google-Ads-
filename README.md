@@ -1,4 +1,4 @@
-# 📊 A/B Testing & Regression Analysis — Facebook Ads vs Google AdWords
+# Paid Media Performance Analysis: Facebook Ads vs Google Ads
 
 > **Data-driven evaluation of digital advertising performance to support marketing budget allocation and campaign optimization.**
 

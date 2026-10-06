@@ -2,7 +2,7 @@
 
 > **Data-driven evaluation of digital advertising performance to support marketing budget allocation and campaign optimization.**
 
-## 📌 Project Overview
+## Project Overview
 
 Digital marketing teams need to continuously evaluate whether their advertising spend is generating meaningful business outcomes.
 
@@ -16,7 +16,7 @@ The project was designed around a practical business question:
 
 ---
 
-## 🎯 Business Problem
+## Business Problem
 
 A digital marketing agency is managing advertising campaigns across:
 
@@ -36,7 +36,7 @@ The business needed to understand:
 
 ---
 
-# 🔍 Analytical Approach
+# Analytical Approach
 
 The project followed a business-oriented analytical workflow:
 
@@ -64,7 +64,7 @@ Business Recommendations
 
 ---
 
-# 📂 Dataset
+# Dataset
 
 The dataset contains **365 daily observations** covering the 2019 advertising campaigns.
 
@@ -83,7 +83,7 @@ Both Facebook and Google AdWords have comparable performance metrics, allowing d
 
 ---
 
-# 🛠️ Tools & Technologies
+# Tools & Technologies
 
 ### Programming & Analysis
 - **Python**
@@ -111,7 +111,7 @@ Both Facebook and Google AdWords have comparable performance metrics, allowing d
 
 ---
 
-# 📊 Key Analysis & Findings
+# Key Analysis & Findings
 
 ## 1. Facebook vs Google AdWords Performance
 
@@ -137,7 +137,7 @@ However, raw conversion volume alone was not considered sufficient to make a bud
 
 ---
 
-# 🧪 2. Statistical Hypothesis Testing
+# 2. Statistical Hypothesis Testing
 
 To determine whether the conversion difference between the two platforms was statistically meaningful, I performed an independent two-sample t-test.
 
@@ -164,7 +164,7 @@ This provides stronger evidence for prioritizing AdWords based on conversion vol
 
 ---
 
-# 📈 3. Does More Engagement Lead to More Conversions?
+# 3. Does More Engagement Lead to More Conversions?
 
 A key marketing question was whether additional ad clicks were associated with additional conversions.
 
@@ -185,7 +185,7 @@ However, correlation does **not** prove causation. Therefore, I used regression 
 
 ---
 
-# 🤖 4. Regression Analysis — Predicting AdWords Conversions
+# 4. Regression Analysis — Predicting AdWords Conversions
 
 I built a simple linear regression model using:
 
@@ -228,7 +228,7 @@ The model is not intended to replace campaign forecasting systems, but it demons
 
 ---
 
-# 📅 5. Time-Based Campaign Analysis
+# 5. Time-Based Campaign Analysis
 
 The project also analyzed AdWords performance across:
 
@@ -248,7 +248,7 @@ Rather than treating the entire year as one homogeneous period, the analysis con
 
 ---
 
-# 💰 6. Cost & Conversion Analysis
+# 6. Cost & Conversion Analysis
 
 Advertising spend was analyzed alongside conversions to understand whether cost and conversion performance move together over time.
 
@@ -269,7 +269,7 @@ This supports using historical cost and conversion trends when evaluating future
 
 ---
 
-# 💡 Business Recommendations
+# Business Recommendations
 
 Based on the analysis, several practical recommendations emerge.
 
@@ -329,7 +329,7 @@ Better Marketing Decision
 
 ---
 
-# 👨‍💻 What I Built
+# What I Built
 
 This project demonstrates an end-to-end marketing analytics workflow:
 
@@ -359,7 +359,7 @@ This project demonstrates an end-to-end marketing analytics workflow:
 
 ---
 
-# 📌 Key Takeaways
+# Key Takeaways
 
 The analysis demonstrates that:
 
@@ -373,7 +373,7 @@ The overall project demonstrates how marketing data can move from **raw campaign
 
 ---
 
-# 🚀 Skills Demonstrated
+# Skills Demonstrated
 
 `Python` `Pandas` `NumPy` `SciPy` `Scikit-learn` `Matplotlib` `Seaborn` `Jupyter Notebook`
 
@@ -385,7 +385,7 @@ The overall project demonstrates how marketing data can move from **raw campaign
 
 ---
 
-# 📁 Project Structure
+# Project Structure
 
 ```text
 AB-Testing-Marketing-Analytics/
